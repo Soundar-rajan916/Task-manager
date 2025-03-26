@@ -1,0 +1,36 @@
+.A{
+    width: 800px;
+    height: 130px;
+    border-width:2px;
+    margin-left: 250px;
+    border-radius:10px;
+    box-shadow: 5px 5px 50px;
+}
+.B{
+    width: 800px;
+    height: 90px;
+    border-width:2px;
+    margin-left: 250px;
+    margin-top:25px;
+    border-radius:10px;
+    box-shadow: 5px 5px 50px;
+}
+.C{
+    width: 800px;
+    height: 300px;
+    border-width:2px;
+    margin-left: 250px;
+    margin-top:25px;
+    border-radius:10px;
+    box-shadow: 5px 5px 50px;
+}
+.D{
+    width: 800px;
+    height: 300px;
+    border-width:2px;
+    margin-left: 250px;
+    margin-top:25px;
+    margin-bottom:25px;
+    border-radius:10px;
+    box-shadow: 5px 5px 50px;
+}
